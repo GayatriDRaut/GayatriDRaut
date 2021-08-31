@@ -8,13 +8,10 @@
 
 
 
-- 🔭 I’m currently pursuing my bachelor's degree in Mathematical Sciences from IIT(BHU) Varanasi
-- 🌱 I’m currently learning to enjoy my life to the fullest!
-- 👯 I’m looking to collaborate on Open Source Projects!
-- 💬 Ask me about 🤷‍
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/gayatri-d-1891661b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gayatri" height="20" width="15" /></a>
+- 🔭 I’m currently pursuing my dual degree in Mathematical Sciences from IIT(BHU) Varanasi
 
-- ⚡ Fact: It's always just an idea before it makes history!!
+- 📫 Reach me at: <a href="https://www.linkedin.com/in/gayatri-d-1891661b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gayatri" height="20" width="15" /></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GayatriDRaut&label=Profile%20views&color=0e75b6&style=flat" alt="GayatriDRaut" /> </p>
 
@@ -25,6 +22,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/gayatri-d-1891661b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gayatri" height="30" width="40" /></a>
+ 
 
 </p>
 
